@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @lord-eki
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on anything to do with Web Apps
-- 📫 How to reach me lodekib@gmail.com | @coder_57
-- 😄 Pronouns: He
+- 👋 Hi, I’m lodeki brian
+- 👀 A Web Developer based in Kenya
+- 📫 How to reach me lodekib@gmail.com 
 
 <!---
 lord-eki/lord-eki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
